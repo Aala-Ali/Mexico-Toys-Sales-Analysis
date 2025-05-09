@@ -15,4 +15,7 @@ This Power BI dashboard provides an overview of sales performance for a toy comp
 ## About
 This dashboard was built using Power BI, focusing on providing business stakeholders with a clear view of store performance metrics across multiple cities and locations.
 
+[Aala Omer Taha | LinkedIn](https://www.linkedin.com/in/alaaomertaha/)
+ Thanks!
+
 ---
